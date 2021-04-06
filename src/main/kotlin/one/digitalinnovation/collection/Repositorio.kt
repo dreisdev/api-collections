@@ -12,4 +12,6 @@ class Repositorio<T> {
     fun findByid(id: String) = map[id]
 
     fun findAll() = map.values
+
+
 }

@@ -19,4 +19,6 @@ fun main(){
     println("-----------------------")
     repositorio.remove(maria.nome)
     repositorio.findAll().forEach { println(it) }
+
+
 }
